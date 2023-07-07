@@ -1,5 +1,5 @@
 # Pathfinder-Visualizer
-* This is an interactive user-friendly pathfindiner visualization created using the A-Star Algorithm
+* This is an interactive user-friendly pathfinder visualization created using the A-Star Algorithm
 * The programme is created using Pygame module
 * Colour code:
    * Orange(255, 165 ,0) represents the start node
